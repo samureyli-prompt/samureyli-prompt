@@ -12,7 +12,7 @@
   <br><br>
 
 <img align="center" alt="chainsaw-gif"
-     style="margin-top: 40px; width: 260px; height: auto;"
+     width="220"
      src="https://media1.tenor.com/m/7wYKppXeCKoAAAAC/angel-devil-chainsaw-man.gif">
 
 
