@@ -9,12 +9,13 @@
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Google-Colab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg">
 
-  <br>
+  <br><br>
 
-  <img align="center" alt="chainsaw-gif" height="70" width="90" 
-       style="margin-top: 25px;" 
+  <img align="center" alt="chainsaw-gif"
+       style="margin-top: 40px; width: 160px; height: auto;"
        src="https://media1.tenor.com/m/7wYKppXeCKoAAAAC/angel-devil-chainsaw-man.gif">
 </div>
+
 
           
           
