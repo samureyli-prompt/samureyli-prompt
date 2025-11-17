@@ -11,9 +11,11 @@
 
   <br><br>
 
-  <img align="center" alt="chainsaw-gif"
-       style="margin-top: 40px; width: 160px; height: auto;"
-       src="https://media1.tenor.com/m/7wYKppXeCKoAAAAC/angel-devil-chainsaw-man.gif">
+<img align="center" alt="chainsaw-gif"
+     style="margin-top: 40px; width: 260px; height: auto;"
+     src="https://media1.tenor.com/m/7wYKppXeCKoAAAAC/angel-devil-chainsaw-man.gif">
+
+
 </div>
 
 
